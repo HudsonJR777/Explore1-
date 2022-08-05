@@ -21,6 +21,9 @@ const respostas = [
     "Sim.",
     "Concentre-se e pergunte novamente.",
     "Sinais apontam que sim.",
+    "Não desanime, continue em frente.",
+    "Ou você faz, ou assiste os outros fazer.",
+    "Sua maior luta, é contra você mesmo, então continue tentando.",
 ]
 
 
