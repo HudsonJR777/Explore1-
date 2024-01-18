@@ -24,6 +24,18 @@ const respostas = [
     "Não desanime, continue em frente.",
     "Ou você faz, ou assiste os outros fazer.",
     "Sua maior luta, é contra você mesmo, então continue tentando.",
+    "Antes tarde, do que mais tarde!",
+    "A sua batalha, é contra você mesmo",
+    "A jornada mais incrível começa com um único passo.",
+    "Seja a mudança que você deseja ver no mundo.",
+    "Pequenos progressos levam a grandes conquistas.",
+    "Acredite em você mesmo, e o resto virá naturalmente.",
+    "Cada novo dia é uma oportunidade para recomeçar.",
+    "Seu potencial é ilimitado; vá além dos seus limites.",
+    "A persistência é a chave do sucesso.",
+    "Você é mais forte do que pensa e mais capaz do que imagina.",
+    "Sucesso é a soma de pequenos esforços repetidos dia após dia.",
+    "Celebre o progresso, não apenas os resultados finais.",
 ]
 
 
